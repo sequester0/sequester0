@@ -3,9 +3,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/sequester0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sequester0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibrahimkeremgumus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimkeremgumus" height="30" width="40" /></a>
-<a href="https://instagram.com/i.keremgumus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.keremgumus" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h3>
